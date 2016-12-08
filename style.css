@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.slider {text-align:left;width:100%;overflow:hidden;background-color:#fff;margin: 0 10px 0 10px}
+.slider .image-slider-container {width:100%;height:auto;overflow:hidden;position:relative;margin:0 auto;padding:0;text-align:left;}
+.slider .image-slider-container div {font-family:Cambria, "Times New Roman", Times, serif; font-size:17px;line-height:1.15em;padding:0;width:930px;height:368px;overflow:hidden;}
+.slider .image-slider-container .mediakits-image {padding:0; margin:0;}
+.slider .image-slider-container .mediakits-image a:link, .slider .image-slider-container .mediakits-image a:visited {color:#006640;text-decoration:none;}
+.slider .image-slider-container .mediakits-image a:hover, .slider .image-slider-container .mediakits-image a:active {color:#000;}
